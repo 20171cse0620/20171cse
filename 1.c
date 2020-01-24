@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int m,n;
+int m,n,a,s;
 printf("enter the no of tokens given to teja\n");
 scanf("%d", &n);
 for(m=0; m<n; m--);
