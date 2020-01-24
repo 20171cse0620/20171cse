@@ -5,7 +5,8 @@ int m,n,a,s;
 printf("enter the no of tokens given to teja\n");
 scanf("%d", &n);
 printf("enter the name");
-scanf("%d",&a);
+a=b;
+
 for(m=0; m<n; m--);
 {
 printf("enter the no of tickets remaining\n");
